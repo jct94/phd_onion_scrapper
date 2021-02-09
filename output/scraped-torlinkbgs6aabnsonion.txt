@@ -1,0 +1,551 @@
+
+
+
+TorLinks | .onion Link List The Hidden Wiki Deep Web Onion Urls Onionland Tor linklist
+
+
+body {
+background:#EEE;
+color:#000;
+font:13px Verdana,Tahoma,sans-serif;
+margin:0;
+text-align:center
+}
+
+:focus {
+outline:none
+}
+
+::-moz-focus-inner {
+border:0
+}
+
+a:link,a:visited {
+color:#00576A;
+font-weight:700;
+text-decoration:none
+}
+
+a:hover {
+color:#0089A8;
+text-decoration:underline
+}
+
+a:focus,a:active {
+color:#00BBE6;
+text-decoration:underline
+}
+
+h1 {
+font-size:35px;
+margin:5px 0;
+text-shadow:0 2px 2px rgba(0,0,0,0.333)
+}
+
+h2 {
+font-size:22px;
+font-weight:500;
+margin:17px 0 15px
+}
+
+h3 {
+margin:25px 0 0
+}
+
+h4 {
+margin-bottom:5px
+}
+
+h1,h2,.linktype {
+color:#6B4900;
+font-family:Courier,monospace
+}
+
+#main {
+-moz-box-shadow:0 6px 12px rgba(0,0,0,0.5);
+-webkit-box-shadow:0 6px 12px rgba(0,0,0,0.5);
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYAAAAGABAMAAABW6aiMAAAAB3RJTUUH3QIGFhoXFooJMwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAARnQU1BAACxjwv8YQUAAAAMUExURff39+/v7+fn5////8egFW0AAAvBSURBVHja7ZxNkuMgDIVF5QLIN4ATpGruf7cx+gGcXmlh+y3k6Z504s+pciSEEMojtoP0v0rE8kOFP+cLVMdrQlTmozEaT3r8o3Uwf8sAjvEmRz+pzt3fucLxRe+z6FN56AM7H7p/Gu28mOWXGY2ncX48G6fNgkpW+e9DakCatgXjh3PVUvXF4h5FX2fE6fRcLeffBY4fBmMHq/667cbND+sd03jiiFA8HW409b9ls6aWFG/r80RD4+lbh9HOuzyWF+oYshhA+8Fw/Em3cf4jz4vaa7zH6X/yM6w3wPNUlSvQ+NMep3FOU5BZ6fx7TSfHMGpXoxY1HhhPfoLdzVhmico/R9HfA403nxIfE4caZqnL2z7ywBoNvtMHcXgag6OIs+kJHUNlJhw2F8ogUifE4klmPA9ZXc2mjiiToYeyaUI0ntzXPOa607HO5OdHYBnWBiDxGqw+w0r0meG1+kMRQ5llfW7H4uVGqqcdRVLB02Zj6BSJBlU+ge7THxpPLN41fmaOrTaTbPBYOaxHNzCe+O/hZmEZ+mq+jy6O8PjrIa7F6nJ+7Uhf5dJzOidAft2m2/A4o0CrI2qdwes4f7svhvrlY8HgqUnY2jLs3Yjqj7rMs0iGxpMgbp+fw7JAWSbtoReJ9+RjxlwdG+xDRMIafb4yt5/3XvH4kV+0i5V4RKsm6x31w+YTt6S6WLysfMo+eraLD61fnEOo8BzuYLwVwNzfrn63pkN99HINEk82G3zk0eLuqGxoJm6OZzdqOS4W33ufczZJmUvdTXxxhF4tMFXz0AONJ12BcnOr6Sgavta5eLHVVka960BC4rcUxJY85l+0B+LPd/xsYQ2Hl2WZlizomHO5XCBVPL1ZLlzNO9H4kU5X7nUAMnmIFza79BhWkuR2uKI8Q+NJL2L53Zd1bOvO7n9owaOj8TQnEB/8dD3YNhvM5woe775UdMXgy80vLT8br+6bJlC8WafIeSm/eCQ+JJpJYOafpRwQT2IsrWrL4bPGPLo89QS9o/E6TrbdQdvKoeVh9kRrZozGi0NVq+QZVa2wJKUMzUlsNW01SSieZeKwfTOZ8KQOs3nZ4S5osQuLnytO9TUrz4+c/E+Bo19si8KTX9V+TquXVbaNQd6qlVA8bcWize1k8JS1O7i9Mxjv0xups4kLDkxulVeVm+0UHq+vdF9Qs2UiXHyTllYi+yWG42mH96p8sbxESFl82juD8WS9Ffb6zEaOYbS2JsHDYnFH42m0tlTfNJhjpM6yRZk7h/52YLzdkCVIh6RO5mTnguKfLdzmAo7ReNoTpXHBWkVUL2HwerxWkBH4sbwc97FuqVoo6O5rMiGuA4wXKxSb3soqpOooKr7Z7CDh8e5yknK0fYL2ISXBttriiNH4uVGwpVIHb1kV2dqhX/oVcHibGgptq4RtBM2H6W9ovNZLKx3Sh+Pr0G237Z/PJytNgeK3Iobuokl/ztYtpYHhzwHDX2pH5nLWn9PEwdoaKH96GBB4t8xn20swm80Xqv+3GROHl7Vx1ayj2g6IO17RhbOmHatxB4r3/QExXTuaLRiOtW7u3LRPp3orAxSvWXXThVzjJhuElzFz+MCps3EHiRcbfattH5P2Mn63fVq6/o3Iyw5Ol8pR2TPxqjtsWgGrvDbdsHiNR8PHtExqUXhrWDiuGS4YbxUWzShs3373uOqBefhksdZBJJ60VkHlfPKpK9jO5ajtI2gJw7IVLL5LS/tYv40b3uvCfqfLbMfYv8LiyStF50tN9pIlUp3p7GpZO441f1c03i0zaqeH3vTeYqQdmlLy3u2IxRddsnG1HhyvxcvJuXPlfTtwfJuxSnoqzssOd7Fr307f+naAeE8ldJnW5tbT/k0ne2n7E4j3dE+mOB3yaiG95boZbHNQMH4LtEXTVbvmzEQ+3qGjyWstcLxbiCW1OKRgOkzYrabHVrvo8nn41I7D27zQpmN5EUzzcjtxDibtODIvBOJn2NUmnbX+974d7ZVau7OIvKLa816mh8ke56folwP/6YxtnVJQfBPj+H6O9iHMvp2xsfzVUCw5isBY/L5PvB+21WPVYD0uX4VC4cm+KUTWy+VuNft2xsdxibpovA8TGRjl2l9kb2QFS5/1wPjZuyXz9k/bzslUGUBjS98DMRZPOiIs9q7EtfsQ8vzjvMo6s7H4sSMoBbDvzC+0LUHC1NFtUqEqKw0xIxY/6xRE3jjBs2/HuxN8We0TPBJP20rNXHDrNmWd9GbLb1t76Ci8dT5tn4A2ErU+dwU1+kqf0WjcB+O17UzO+bc/ZEWnk8oYUeOfBLAilTI4ftlorthmc6wMEZ45uu2GYPHEf2PtvIC9W8dbQ8QtsXialip1m/V8M+GwRLwunwTjbfKerU9uPRv3OmzKMhsefz6RDO8Yfb0+39Vxr1R6vb6tmRCK37o+mBH0gqK83Q6QXlCUL756W76W+kJP8hKvoPSCUl/IbWaZVOoL3cyfNJheUOoLceoLPcpr4RRILyjKp77Q27wGKyS9oCgvNwKkFxTlU1/obf56FC1EVo2vbLuxqS90J5/6Qm/znnwA6QVF+d8+nMapL5T6QgGebDbA0QuK8mh6Qakv5L2YtAfi1Be6j099obd5mhMIjF5QlHdfQtELivJmHRi9oChPYiwgvaAob7v7W8aU+kIP8wymFxTl975RCL2gKE9+Vfs5rV6W+kK38z69kTobe0dO6gs9xae+0Ns8wekFpb7QXEWkvtAjvFih2PQGoReU+kKc+kKP8nB6QVF+K2Jg6AVF+UvtyFwu9YUe5fWboQyjFxTlU1/obV5sBKYXlPpCnPpCD/KktQokvaDUF+LUF0p9oQjfZqwiCL2gKO+phC7TAPSCoryne1B6QakvlPpCqS+U+kLWt8OpL3Q7T3B6QVEeTi8o9YXc5zj1hR7hU1/obd46n7ZPIPWFUl8oxBP/jbXzAvZundQXuo+3yRtILyjKo+kFpb7QuKXUF0p9odQXSn2hx3g4vaDUF+LUF3qWh9MLivJaOAXSC4ryqS/0Nq/BCkkvKMrLjQDpBUX51Bd6m78eRQuRVeMr225s6gvdyae+0Nu8Jx9AekFR/rcPp3HqC6W+UIAnmw1w9IKiPJpeUOoLeS8m7YE49YXu41Nf6G2e5gQCoxcU5d2XUPSCorxZB0YvKMqTGAtILyjK2+7+ljGlvtDDPIPpBUX5vW8UQi8oypNf1X5Oq5elvtDtvE9vpM7G3pGT+kJP8akv9DZPcHpBqS80VxGpL/QIL1YoNr1B6AWlvhCnvtCjPJxeUJTfihgYekFR/lI7MpdLfaFHef1mKMPoBUX51Bd6mxcbgekFpb4Qp77QgzxprQJJLyj1hTj1hVJfKMK3GasIQi8oynsqocs0AL2gKO/pHpReUOoLpb5Q6gulvpD17XDqC93OE5xeUJSH0wtKfSH3OU59oUf41Bd6m7fOp+0TSH2h1BcK8cR/Y+28gL1bJ/WF7uNt8gbSC4ryaHpBqS80bin1hVJfKPWFUl/oMR5OLyj1hTj1hZ7l4fSCorwWToH0gqJ86gu9zWuwQtILivJyI0B6QVE+9YXe5q9H0UJk1fjKthub+kJ38qkv9DbvyQeQXlCU/+3DaZz6QqkvFODJZgMcvaAoj6YXlPpC3otJeyBOfaH7+NQXepunOYHA6AVFefclFL2gKG/WgdELivIkxgLSC4rytru/ZUypL/Qwz2B6QVF+7xuF0AuK8uRXtZ/T6mWpL3Q779MbqbOxd+SkvtBTfOoLvc0TnF5Q6gvNVUTqCz3CixWKTW8QekGpL8SpL/QoD6cXFOW3IgaGXlCUv9SOzOVSX+hRXr8ZyjB6QVE+9YXe5sVGYHpBqS/EqS/0IE9aq0DSC0p9IU59odQXivBtxiqC0AuK8p5K6DINQC8oynu6B6UXlPpCqS+U+kKpL2R9O5z6QrfzBKcXFOXh9IJSX8h9jlNf6BE+9YXe5q3zafsEUl8o9YVCPPHfWDsvYO/WSX2h+3ibvIH0gqI8ml5QlP8PqwPjc+os/OsAAAAASUVORK5CYII=);
+box-shadow:0 6px 12px rgba(0,0,0,0.5);
+margin:15px auto 25px;
+padding:20px;
+width:740px
+}
+
+#links {
+line-height:20px;
+text-align:left
+}
+
+.linktype {
+float:right;
+font-size:18px;
+font-weight:500
+}
+
+.menu a:link,.menu a:visited {
+background:#00576A;
+padding:6px 8px
+}
+
+.menu a:link,.menu a:visited,.up a:link,.up a:visited {
+-moz-box-shadow:0 2px 3px rgba(0,0,0,0.5);
+-webkit-box-shadow:0 2px 3px rgba(0,0,0,0.5);
+box-shadow:0 2px 3px rgba(0,0,0,0.5);
+color:#FFF;
+cursor:pointer;
+font-weight:700;
+text-decoration:none
+}
+
+h2,.linktype,.menu a:link,.menu a:visited,.up a:link,.up a:visited {
+text-shadow:0 1px 1px rgba(0,0,0,0.5)
+}
+
+.menu a:hover {
+background:#0089A8
+}
+
+.menu a:focus,.menu a:active {
+background:#00BBE6
+}
+
+.up {
+margin-top:11px
+}
+
+.up a:link,.up a:visited {
+background:#6B4900;
+padding:2px 8px
+}
+
+.up a:hover {
+background:#A87300
+}
+
+.up a:focus,.up a:active {
+background:#E69D00
+}
+
+
+
+ 
+
+
+TorLinks | .onion Link List
+
+
+Commercial Links
+
+
+Financial Services
+Services
+Drugs
+Physical Goods
+Digital Goods
+Erotic
+Gambling
+
+Non-Commercial Links
+
+Services
+Hacking
+Warez
+Erotic
+Forums
+Media
+Political
+Others
+Non-English
+
+
+TorLinks is a moderated replacement for The Hidden Wiki, and serves as a link or url list of Tor hidden services.
+Feel free to copy this deep web link list directory to your website to make others aware of the darknet.
+We regulary update the tor onion sites on this site.
+
+
+
+Financial ServicesCommercial Links
+
+
+EasyCoin | EasyCoin Bitcoin Wallet, now with free Bitcoin Mixer!
+WeBuyBitcoins | Sell your Bitcoins for Cash (USD), ACH, WU/MG, LR, PayPal and more
+HQER | High quality euro bills replicas / counterfeits
+USD Counterfeits | High quality USD counterfeits
+OnionWallet | Anonymous Bitcoin Wallet and Bitcoin Laundry
+Λ
+
+ServicesCommercial Links
+
+
+TorShops | Create your own .onion store with full bitcoin integration
+OnionHosting | Secure hosting for .onion and/or i2p
+Onion Identity Services | Selling Passports and ID-Cards
+Rent-A-Hacker | Hacking, DDOS, Social Engeneering, Espionage, Ruining people
+USA Citizenship | Become a citizen of the USA, real USA passport
+Hitman Network | Group of contract killers in the US/Canada and the EU
+UK Passports | Original UK Passports
+USfakeIDs | High quality USA Fake Drivers Licenses
+Λ
+
+DrugsCommercial Links
+
+
+EuCanna | 'First Class Cannabis Healthcare' - Medical Grade Cannabis Buds, Rick Simpson Oil, Ointments and Creams
+Peoples Drug Store | The Darkweb's Best Online Drug Supplier! Heroin, Cocaine, Ecstasy, Speed, Cannabis Prescriptions
+Smokeables | Finest Organic Cannabis shipped from the USA
+CannabisUK | UK Cannabis vendor, selling only organic weed
+DeDope | German Weed Shop - Weed and Hash from Germany
+BitPharma | EU vendor for cocaine, speed, mdma, psychedelics and subscriptions
+Brainmagic | Best psychedelics on the darknet
+NLGrowers | Coffee Shop grade Cannabis from the netherlands
+Λ
+
+Physical GoodsCommercial Links
+
+
+Mobile Store | Factory unlocked iphones and other smartphones
+UK Guns and Ammo | Selling Guns and Ammo from the UK for Bitcoins
+Apples4Bitcoin | Cheap Apple Products for Bitcoin
+EuroGuns | Your #1 european arms dealer
+Λ
+
+Digital GoodsCommercial Links
+
+
+ccPal | CCs, CVV2s, Ebay, Paypals and more
+Λ
+
+EroticCommercial Links
+
+
+Kamagra for Bitcoin | Same as Viagra, but cheaper! Ships from the UK.
+bittit NSFW | Buy or sell original NSFW pictures for Bitcoins
+Tor Sex Workers Review Board | For escorts, exotics, massage, etc
+Λ
+
+GamblingCommercial Links
+
+
+Coming soon! Just need to find some which arent scams!
+Λ
+
+ServicesNon-Commercial Links
+
+
+
+Tor link lists and search engines.
+
+The Hidden Wiki | Wiki style link list of TOR, most links there are SCAMS!
+TORDIR | Categorized link list of Tor, user submitted. Also a PM service
+Sites Deep Web | A small list of onion links
+Core.onion | Simple onion bootstrapping
+TORCH | Tor Search Engine, claims to index around 1.1 Million pages
+Deepsearch | Another search engine
+OnionBookmark | Keep bookmarks private or share with public
+InspecTor | List of bad Tor nodes with ExcludeNodes generator for torrc
+ TorJump | A one-click wrapper to make Tor more accessible to non tech-savvies
+Welcome, We've been expecting you! | Links to basic encryption guides
+Gateway | Tor <----> I2p web proxy
+Startbook | online management of your bookmarks/favorites
+
+Email + Messaging
+
+TorPM | Tor Private Messaging
+ SimplePM | A PM service by CWKU. No registration needed
+GPF AnonymousWebservices | Proxies for I2P, mail, news, tor, web
+GPF PrivacyBox | Private messaging service. Proxies for I2P, tor, web
+Tor Mail | Webmail/SMTP/IMAP/POP3. Can send/receive mail from outside Tor with a you@tormail.net address
+Remailer Reliability Stats | Mixmaster/Cypherpunk remailer stats
+Newzbin | Crowdsourced Usenet index based in the UK
+ChatRoom | AJAX based chat system, use any browser, no registration
+EFG Chat | HTTP refresh chatrooms
+Torbook | A way to make friends in onionland
+ELIZA | Free pyschotherapy
+n0id | n0id's crypto identity and contact page
+Narcan's GPG key | Narcan's GPG key
+TorStatusNet | Twitter clone on tor
+
+Hosting
+
+The Onion Cloud | Tor/ownCloud based cloud, Login/Pass: public/public
+CircleServices | Mixie's place. Provides: Circle-Talk, TorPM, ImgZapr, SnapBBS, qPasteBin, AnonyShares, Circle-IRC
+Anonyshares | File upload up to 10MB
+qPasteBin | A pastebin
+Onion Fileshare | 2GB Upload file size limit, upload any files you want
+ES Simple Uploader | Upload images, docs and other files, 2 MB upload limit
+IMGuru | Fast GIF/JPEG host. No images removed. If you get the error Invalid File, retry the upload
+SquareBoard | Upload and share high quality images, moderated
+sTORage | Upload files, has WebDAV support
+Onion Image Uploader | Image Hosting, 2 MB upload limit, generates medium thumbnails
+Freedom Hosting | Hosting Service with PHP/MySQL, as of 2011-06-04, it hosts about 50% of the live OnionWeb by onion
+PasteOnion | Paste and share text, sources, whatever, you can make your paste public or set a password
+QicPic | Upload any type of file, caches and compresses uploaded files to decrease loading time
+Λ
+
+HackingNon-Commercial Links
+
+
+HackBB | Forums for hacking, carding, cracking, programming, anti-forensics, and other tech topics, includes a marketplace with escrow
+Carders Forums | Ministry of Fraudulently Affairs
+hashparty | Password hash cracking site
+Polyfront #2nd | Tradecraft and security tutorials
+OnionUserX Censor Page | Seriously, the fuck? Anyone mind reposting the original links?
+The KMs Bird (WhiteHex) | School hacker
+DeepSec | An annual European two-day in-depth conference on computer, network, and application security
+BRAMA | Linux/Wireless/Mobile tech consortium in Poland
+TM Comm | For a Chaotic Tomorrow
+The KMs Bird (GreenBin) | School hacker
+Shell In A Box | Shell In A Box
+Requiem | Software for removing iTunes DRM
+keys open doors | Mirror of geohot's PS3 hacking tools
+Speakeasy #2nd | Paper describing a highly-secured forum system (current version)
+Crackwar | Pirates are the good guys!
+Cycekkk | A browser exploit page using 302 mailto method. Tries to send bad words/links to Mr. Brejza
+New Diceware Lists | Randomization for file names. Multiple lists, more to come
+Speakeasy #1st | Paper describing a highly-secured forum system (old flawed version)
+Onion Desktop | eyeOS web desktop
+Dear PayPal], [http://pastebin.com/LAykd1es (clearnet) | AntiSec's message
+Λ
+
+WarezNon-Commercial Links
+
+
+OnionWarez | Warez forum
+Weird and Wonderful Old Stuff | A collection of old DOS and Windows software
+Lossless Audio Files | Mostly WavPack, some FLAC, Ape, ogg, etc. Has index generating links
+FileshareZ | Filesharing forum, movies, music and tv-shows
+Movies, Music, TV & Ebooks | user: webuser password: L0L******
+
+Books
+
+OnionWarez | Warez forum
+The Tor Library | 47 GB. pdf, chm, djvu. Design by Russebertene
+Example rendezvous points page | Thomas Paine's ''Common Sense'' and ''The Federalist papers''
+Destination Unknown | Small selection. Searchlores, Cryptonomicon, Thelema..
+LiberaTor | Making weapons, military training, and related subjects
+Free Bibliotheca Alexandrina | English, Spanish and German books
+The Laughing Nihilist | Drugs + writing
+Mister | Collection of writings, art, selected texts and deeply personal views on philosophy of existence
+ParaZite | Collection of forbidden files and howto's (pdf, txt, etc.)
+Λ
+
+EroticNon-Commercial Links
+
+
+(Y)APE | Yet Another Porn Exchange
+LustAdultery | Hardcore hot truth ladies and lust
+Bug Tales | Site rip of bugtales.net from the Internet Archive. Homosexual bugchasing stories
+Porn-Free | Free porn advice
+Hard p0rn | forum | The harder the better
+Penis Panic! | Dedicated to genital mutilation. The discussion board
+Penis Panic! | Dedicated to genital mutilation. The pictures and videos
+Λ
+
+ForumsNon-Commercial Links
+
+
+TheHiddenHand | SnapBBS, TheHiddenHand collective communication based on conspiracy, 
+philosophy and uncensored information-currently seeking freedomhosting invite
+Torchan | /b/, /i/, programming, revolution, tons of other boards
+Anonchan | Boards: /b/">- Random, /a/">- Anime/Manga/NSFW
+Hidden Image Site | HIS
+Bobby's board | Channel with currently only 2 boards but growing, about 75% uptime
+Torduckin0 #1st | www.citadel.org Citadel, BBS with chat and IM to support
+TriChan | Revived, now only has /txt/">Textboard, /mlp/">My Little Pony, and /b/">Random
+Circle-Talk | A board on the front page of CircleService
+SnapBBS | The SnapBBS service
+Onion Site Reviews | A site started 2011/11/19 made for the reviews of onion sites
+TorTSE | A continuation of the infamous TOTSE forum which has existed since the late 80s covering almost every topic
+TOR Free For All | Unmoderated area for political and other topics. Anything goes. Private board
+Democrat Watch | Right-wing board dedicated to criticizing Democrats (registration required)
+The Intel Exchange | Know or need to know something? Ask and share at this underground intelligence gathering network
+LE+TOR Interchat | Law enforcement and Tor users can interact and share their opinions as humans
+TOR Answers | Like Yahoo answers, but with a Tor twist
+Paranomal Aliens n' Shit | Discussion of the Paranormal, Aliens and Shit
+Cafe at the End of the Internet | Feeling off-topic? Tech-oriented chill zone/meeting grounds for general talk
+Esoteric and Occult | Dedicated to all forms of occultism
+Crime Network | A place to network and get better at your craft
+Demosthenes' Board | Demosthenes' Board
+SnapBBS public board | The public SnapBBS board
+Onionforum 2.0 | A restart of the popular Onionforum. No login required
+What is your current Bitch? | Post your current gripe and/or bitch! Blow some steam off and you will feel better
+Talk.Masked | Talks and Notes. 2nd generation
+Torduckin0 #2nd | BBS with chat and IM to support
+Anonymous BBS | Another variation of the talks style of board
+OnionMe | Forum for personal ads. All ages welcome
+Torduckin0 #3rd | BBS with chat and IM to support
+Torduckin0 #4th | BBS with chat and IM to support
+Leaf's underground horticulture | Minimalist, multipurpose text boards. No login required
+Torsquare | Anonymous board, shares posts and discussions with Torbook's public square
+HackBB | Forums for hacking, carding, cracking, programming, anti-forensics, and other tech topics. Also a marketplace with escrow
+DOXBIN | DOX go here. A pastebin for personally identifiable information
+Freeside | WHY WAIT? Leave the crazy at the door
+Talk | Board, no pictures
+RedditTor | Anonymous Reddit
+Λ
+
+MediaNon-Commercial Links
+
+
+RespiraTOR | If something is infuriating you, it's better to get it off your chest
+Americans for Disparity | Exploring disparody
+Tor and blosxom | A Tor hidden service running on the blosxom blogging platform
+10 Step Guide to Bail Jumping  | More about Jumping bail and fleeing the country
+Gionn | Technology blog and news aggregator
+My Hidden Blog | Security politics, security, tor, tools, personal
+Tornado | Forum, blogs, polls, registered or anon posting
+Cone's lair #2nd | Yeesha. Back with Cone's journal and some other stuff
+True Anonymous Confessions | A confession service based on a bash clone
+How to Get Away with Insider Trading | You always wondered why these guys were getting caught, now pull it off and make millions
+Beat the Sex Offender Polygraph & Abel Assessment | Sex Offender? Here's how to stay out and prevent re-convictions or get a better plea offer
+Beneath VT | Information on the steam tunnels at Virginia Tech
+Keep Bitcoin Real | Fuck the day traders, take Bitcoin back to its roots
+The Human Experiment | Human medical experiments. We go, where few dare
+Steal This Wiki mirror | Steal this wiki mirror, no editing, hosted at NoReason
+Λ
+
+PoliticalNon-Commercial Links
+
+
+Heidenwut | Politics, Occultism, Spy vs Spy, Revolution!!
+BuggedPlanet.Info | Information on Telecommunication Interception Companies + Installations
+PURE EUROPE | Cleanse Europe of the dirt!
+Keep Internet Open! | Small unofficial AnonOps site, currently instructing how to DDoS MasterCard and other WikiLeaks opponents
+ A website | Free speech advocacy. (About 50% uptime.)
+paraZite #2nd | Illicit activities advocacy and censored information archive
+House of Anonymous | Satirical manifesto regarding anonymous
+The Movement of torism | New activist group organized in OnionSpace
+Wake up Europe! | This is a call to arms!
+Revolution Bunker | h3x's blog on censorship, hacking, privacy, crypto, capitalism, war, corruption, etc
+LoM's Revolutionary Codex | Revolution/Subversive texts, forum soon, blog
+Heidenwut | Politics, Occultism, Spy vs Spy, Revolution!!
+
+Whistleblowing
+
+
+WikiLeaks
+
+See also http://wikileaks.org/ | WikiLeaks Official Site
+A Cat's Mirror of Wikileaks Cablegate site | Includes cables currently redacted or offline
+WikiLeaks mirror #B | updates follow wikileaks.ch with up to 3 days delay
+WikiLeaks mirror #A | WikiLeaks last push update to this mirror occurred 2011-03-06
+
+Operation AntiSec
+
+Texas Takedown Thursday: Chinga La Migra IV | AntiSec messes with Texas, attacks dozens of police systems and chief emails
+Fuck FBI Friday: IACIS Cybercrime Investigator Communications | email dump including IACIS internal email list archives
+
+Other
+
+HBGary Federal Attachment Dump | The HBGary email archive leaked by Anonymous
+Taz Onion | onion version of leaks.taz.de | Mockup of another leak project, known as OpenLeaks
+Λ
+
+OthersNon-Commercial Links
+
+
+Kenny | You killed Kenny! You're a bastard!
+DuckDuckGo | metasearch engine with heavy filtering
+bugmenot@tor | A user supplied database of account credentials for various websites
+The LG enV2 | Very basic information and photo gallery about a wireless digital messaging phone
+thE LisT oF SQL data bases! | MySQL credentials archive. Hosted on this page
+Questions and Answers | A little truth game. Ask questions and give answers anonymously. Answers also support image uploading
+noreason | Info and pdf files on weapons, locks, survival, poisons, protesters, how to kill. Hidden Wiki, TorDir, Steal this wiki, 
+Telecomix Crypto Munitions Bureau mirrors. Guro, dofantasy --Fansadox Collection
+The Outlaw Project | "Free for all" links to various files and known .onion sites. Onion address hosted an FTP service
+Λ
+
+Non-EnglishNon-Commercial Links
+
+
+
+Czech / Cetina
+
+PirateLeaks.cz #2nd  | Ceská obdoba WikiLeaks | Czech website based on Wikileaks
+
+Danish / Dansk
+
+DanishChan | Scandinavian focused imageboard. Boards include drugs and IT security as well as a Random board. Fast and clean 
+layout, little downtime
+drugs.dk | Danish Drug Trade
+
+Dutch / Nederlands
+
+Voetbalfan | Voetbalfan
+
+Finnish / Suomi
+
+Sipulilauta | A chan
+Thorlauta | Successor to Torlauta
+Blue Quarters | Advice regarding to BitCoins, Silk Road Online, ordering anonymously, staying anonymous in deepweb etc
+Blue Quarters Forum | Discussion forum
+Suojeluskunta | White Power Forum
+
+French / Français
+
+Hmm? | A French board
+Je suis Kalila | Weird website
+
+German / Deutsch
+
+Das ist DEUTSCHLAND hier | discussion forum with no specific topic
+TAZ Archiv | A daily updated archive of the TAZ (German newspaper) starting from 2009-05 maybe with some days missing
+Hmm? | Forum for warez and uncensored talk
+beaglesnoop | Website and blog
+Pyrowiki | Pyrotechnics and drug wiki
+Geheimkanal | Imageboard. (Partially 18+)
+Safety101 | Computer saftey board. Some English
+Jailbait Sex Forum | Jailbait Sex Forum
+Flachbrustkanal | Brett für flache Brüste
+
+Hebrew
+
+Samim.onion | Selling and shipping of drugs and medicine in Israel (Bitcoin)
+
+Polish / Polski
+
+Torowisko | Forum Polskiej Spolecznosci Tor. Nowe ogólnotematyczne forum bez rejestracji i cenzury. Godny Nastepca Onionforum, 
+juz z ponad 8000 postami (codziennie przybywaja nowe!)
+Fundacja Panoptykon | panoptykon.org | Strona fundacji przeciwstawiajacej sie coraz powszechniejszej inwigilacji oraz tendencjom 
+nasilania nadzoru i kontroli nad spoleczenstwem
+George Orwell | polskie tlumaczenie znanej powiesci
+Polska Ukryta Wiki | PUW, wiki polskiej spolecznosci Tor
+Backup NWO | wybór najciekawszych stron i artykulów dot. nowego porzadku swiata i tematów pokrewnych
+ Ksiega Urantii | czyli kolejna, jedynie sluszna prawda, komus tam objawiona
+Krzysztof Brejza | malo zabawna imitacja strony jednego z poslów PO
+Polska Cebulka | blog i zbiór linków dot. polskich zasobów sieci Tor
+Polska ukryta strona w sieci Tor | przykladowa strona
+Torkazywarka | http://nemlq3kd36frgvzp.onion/forum/ Forum Przekrety , praktycznie martwe forum, w zalozeniu o przekretach, broni 
+i hackingu
+TorKnight | wielotematyczne forum wymagajace rejestracji
+56 Dog Days | Ramblings
+Onioon Search | Polska wyszukiwarka stron .onion | kazdy moze dodac swój strone do katalogu wyszukiwarki
+
+Slovak / Slovenský
+
+Detská pornografia: Je to len zámienka | Preco je boj proti detskej pornografii zámienkou pre nieco iné
+
+Spanish / Español
+
+Abusos | Abusos judiciales en España
+T0rtilla | Shoutox webchat
+CebollaChan | CebollaChan, el tor-chan en Castellano
+T0rtilla | Shoutbox webchat. (Direct FH URL)
+Forocoches 2.0 | Torocoches | Forocoches 2.0
+
+Swedish / Svenska
+
+Moral.Nu | Vad är moral?
+KognitionsKyrkan | Spiritual stuff
+ZG Projektet | ZG Projektet
+Λ
+
+
+
+
+
+To report missing or broken links and scams please use our 
+Message Center
+
+
+
